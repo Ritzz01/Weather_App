@@ -1,0 +1,35 @@
+/* styles.css
+*/
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ffffff; /* Set background color as needed */
+  }
+  
+  .box {
+    text-align: center;
+    background-color: #9dcae3;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 0 10px rgba(42, 2, 2, 0.1);
+  }
+  
+  .inputFeild {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #205fff;
+    border-radius: 18px;
+    font-size: 16px;
+    box-sizing: border-box;
+  }
+  
+  .info {
+    margin-top: 20px;
+    text-align: center;
+  } 
+  
+  /* Add more styling as needed */
+  

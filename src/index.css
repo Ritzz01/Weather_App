@@ -11,3 +11,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* 
+https://api.tomorrow.io/v4/weather/realtime?location=${location}&apikey=xf4W8uQIgsBsTuVPoNFsgkfDOchH6l3Z */
